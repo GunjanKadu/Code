@@ -1,4 +1,4 @@
-# Code Sync - A Realtime Code Editor
+# Code Together - A Realtime Code Editor
 
 ![screenshot](./screenshots/preview.png)
 
