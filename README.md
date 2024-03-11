@@ -2,30 +2,23 @@
 
 ![screenshot](./screenshots/preview.png)
 
-Code Sync is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
-
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Sync?style=for-the-badge&color=e67234)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
+Code Together is an interactive, real-time code editor that enables users to collaboratively code. It offers a space for multiple individuals to join a room, exchange a distinct room ID, and work together on code in real-time.
 
 ## 🔮 Features
 
--   💻 Real-time collaboration on code editing across multiple files
--   🚀 Unique room generation with room ID for collaboration
--   🌈 Syntax highlighting for various file types with auto-language detection
--   💡 Auto suggestion based on programming language
--   ⏱️ Instant updates and synchronization of code changes across all files
--   📣 Notifications for user join and leave events
--   🎨 Multiple themes for personalized coding experience
--   🌍 Comprehensive language support for versatile programming
--   🔠 Option to change font size and font family
--   👥 User presence list of users currently in the collaboration session, including online/offline status indicators
--   📁 Open, edit, save, and delete file functionalities
--   💾 Option to download files edited within the collaboration session
--   💬 **Group chatting** allows users to communicate in real-time while working on code.
+- 💻 Real-time collaboration on code editing across multiple files
+- 🚀 Unique room generation with room ID for collaboration
+- 🌈 Syntax highlighting for various file types with auto-language detection
+- 💡 Auto suggestion based on programming language
+- ⏱️ Instant updates and synchronization of code changes across all files
+- 📣 Notifications for user join and leave events
+- 🎨 Multiple themes for personalized coding experience
+- 🌍 Comprehensive language support for versatile programming
+- 🔠 Option to change font size and font family
+- 👥 User presence list of users currently in the collaboration session, including online/offline status indicators
+- 📁 Open, edit, save, and delete file functionalities
+- 💾 Option to download files edited within the collaboration session
+- 💬 **Group chatting** allows users to communicate in real-time while working on code.
 
 ## 🚀 Live Preview
 
@@ -150,49 +143,49 @@ README.md
 
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
-    ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
-    ```
+   ```bash
+   git clone https://github.com/<your-username>/Code-Sync.git
+   ```
 3. **Set .env file:**
    Inside the client and server directory, create or edit the .env file and add the following line:  
    Frontend:
 
-    ```bash
-    VITE_BACKEND_URL=<your_server_url>
-    ```
+   ```bash
+   VITE_BACKEND_URL=<your_server_url>
+   ```
 
-    Backend:
+   Backend:
 
-    ```bash
-    PORT=3000
-    ```
+   ```bash
+   PORT=3000
+   ```
 
 4. **Install dependencies:**
    Navigate to the frontend and backend directories separately and run:
-    ```bash
-     npm install
-    ```
+   ```bash
+    npm install
+   ```
 5. **Start the frontend and backend servers:**  
    Frontend:
-    ```bash
-    cd client
-    npm run dev
-    ```
-    Backend:
-    ```bash
-    cd server
-    npm run dev
-    ```
+   ```bash
+   cd client
+   npm run dev
+   ```
+   Backend:
+   ```bash
+   cd server
+   npm run dev
+   ```
 6. **Access the application:**
    Open a browser and enter the following URL:
-    ```bash
-    http://localhost:5173/
-    ```
+   ```bash
+   http://localhost:5173/
+   ```
 
 ## 🔮 Features for next release
 
--   **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
--   **Search and Replace:** Implement a search and replace functionality for efficient code navigation.
+- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
+- **Search and Replace:** Implement a search and replace functionality for efficient code navigation.
 
 ## 🤝 Contribute
 
@@ -205,9 +198,3 @@ If you find this helpful or valuable, please consider 🌟 starring the reposito
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## ✍️ About Developer
-
--   Sahil Atahar (Aspiring Full Stack Developer)  
-     [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilatahar)
-    [![LinkedIn-social](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilatahar)

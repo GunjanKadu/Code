@@ -1,7 +1,7 @@
 function GitHubCorner() {
     return (
         <a
-            href="https://github.com/sahilatahar/Code-Sync"
+            href="https://github.com/gunjankadu/Code-Sync"
             className="github-corner block"
             aria-label="View source on GitHub"
             target="_blank"
@@ -11,9 +11,10 @@ function GitHubCorner() {
                 width="150"
                 height="100"
                 viewBox="0 0 250 250"
-                className="absolute right-0 top-0 z-10 border-none bg-primary text-gray-900 dark:text-gray-100"
+                className="absolute right-0 top-0 z-10 border-none text-gray-900 dark:text-gray-100"
                 aria-hidden="true"
                 style={{
+                    backgroundColor: "#6c63ff",
                     color: "#151513",
                     transform: "rotate(45deg) translate(12%,-80%) scale(0.8)",
                 }}
