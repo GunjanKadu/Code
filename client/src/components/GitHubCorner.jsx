@@ -1,7 +1,7 @@
 function GitHubCorner() {
     return (
         <a
-            href="https://github.com/gunjankadu/Code-Sync"
+            href="https://github.com/gunjankadu/Code-Together"
             className="github-corner block"
             aria-label="View source on GitHub"
             target="_blank"
