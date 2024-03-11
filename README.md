@@ -2,6 +2,8 @@
 
 ![screenshot](./screenshots/preview.png)
 
+![screenshot](./screenshots/preview1.png)
+
 Code Together is an interactive, real-time code editor that enables users to collaboratively code. It offers a space for multiple individuals to join a room, exchange a distinct room ID, and work together on code in real-time.
 
 ## 🔮 Features
