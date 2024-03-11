@@ -183,20 +183,3 @@ README.md
    ```bash
    http://localhost:5173/
    ```
-
-## 🔮 Features for next release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-- **Search and Replace:** Implement a search and replace functionality for efficient code navigation.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
-
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
