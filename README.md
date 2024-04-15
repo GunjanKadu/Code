@@ -24,7 +24,7 @@ Code Together is an interactive, real-time code editor that enables users to col
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](code-together-client-rho.vercel.app).
+You can view the live preview of the project [here](https://code-together-client-rho.vercel.app/).
 
 ## 💻 Tech Stack
 
